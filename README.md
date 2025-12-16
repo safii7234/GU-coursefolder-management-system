@@ -36,3 +36,5 @@ for academic reference and system understanding.
 - Final Year Project (2024)
 - Shared for learning and academic reference purposes
 
+Project documentation is available in the /documentation folder.
+
